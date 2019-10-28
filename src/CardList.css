@@ -1,0 +1,10 @@
+.container{
+	display: grid;
+	grid-template-columns: repeat(auto-fill,minmax(250px,1fr));
+	margin:30px 30px;
+	justify-content: center;
+}
+.kaki{
+	display: flex;
+	justify-content: ;
+}
